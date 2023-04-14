@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Apr 14 19:57:53 2023
+[*]
+[dumpfile] "/home/marcos/dev/FCEN/fpga-acc/hdl/counter/simulation/mod_m_counter_prog_tb.ghw"
+[dumpfile_mtime] "Fri Apr 14 19:56:12 2023"
+[dumpfile_size] 27955
+[savefile] "/home/marcos/dev/FCEN/fpga-acc/hdl/counter/simulation/mod_m_counter_prog_tb.gtkw"
+[timestart] 0
+[size] 1280 995
+[pos] -1 -1
+*-33.324600 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 208
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 281
+@28
+top.mod_m_counter_prog_tb.clk
+top.mod_m_counter_prog_tb.max
+@22
+#{top.mod_m_counter_prog_tb.max_count[5:0]} top.mod_m_counter_prog_tb.max_count[5] top.mod_m_counter_prog_tb.max_count[4] top.mod_m_counter_prog_tb.max_count[3] top.mod_m_counter_prog_tb.max_count[2] top.mod_m_counter_prog_tb.max_count[1] top.mod_m_counter_prog_tb.max_count[0]
+@23
+#{top.mod_m_counter_prog_tb.q[5:0]} top.mod_m_counter_prog_tb.q[5] top.mod_m_counter_prog_tb.q[4] top.mod_m_counter_prog_tb.q[3] top.mod_m_counter_prog_tb.q[2] top.mod_m_counter_prog_tb.q[1] top.mod_m_counter_prog_tb.q[0]
+@28
+top.mod_m_counter_prog_tb.reset
+top.mod_m_counter_prog_tb.run
+top.mod_m_counter_prog_tb.uut.clk_i
+@22
+#{top.mod_m_counter_prog_tb.uut.count_o[5:0]} top.mod_m_counter_prog_tb.uut.count_o[5] top.mod_m_counter_prog_tb.uut.count_o[4] top.mod_m_counter_prog_tb.uut.count_o[3] top.mod_m_counter_prog_tb.uut.count_o[2] top.mod_m_counter_prog_tb.uut.count_o[1] top.mod_m_counter_prog_tb.uut.count_o[0]
+#{top.mod_m_counter_prog_tb.uut.max_count_i[5:0]} top.mod_m_counter_prog_tb.uut.max_count_i[5] top.mod_m_counter_prog_tb.uut.max_count_i[4] top.mod_m_counter_prog_tb.uut.max_count_i[3] top.mod_m_counter_prog_tb.uut.max_count_i[2] top.mod_m_counter_prog_tb.uut.max_count_i[1] top.mod_m_counter_prog_tb.uut.max_count_i[0]
+@28
+top.mod_m_counter_prog_tb.uut.max_o
+@22
+#{top.mod_m_counter_prog_tb.uut.r_next[5:0]} top.mod_m_counter_prog_tb.uut.r_next[5] top.mod_m_counter_prog_tb.uut.r_next[4] top.mod_m_counter_prog_tb.uut.r_next[3] top.mod_m_counter_prog_tb.uut.r_next[2] top.mod_m_counter_prog_tb.uut.r_next[1] top.mod_m_counter_prog_tb.uut.r_next[0]
+#{top.mod_m_counter_prog_tb.uut.r_reg[5:0]} top.mod_m_counter_prog_tb.uut.r_reg[5] top.mod_m_counter_prog_tb.uut.r_reg[4] top.mod_m_counter_prog_tb.uut.r_reg[3] top.mod_m_counter_prog_tb.uut.r_reg[2] top.mod_m_counter_prog_tb.uut.r_reg[1] top.mod_m_counter_prog_tb.uut.r_reg[0]
+@28
+top.mod_m_counter_prog_tb.uut.reset_i
+top.mod_m_counter_prog_tb.uut.run_i
+[pattern_trace] 1
+[pattern_trace] 0
